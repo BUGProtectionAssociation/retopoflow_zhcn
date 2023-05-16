@@ -1,28 +1,14 @@
 想办法弄成中文的（也许）
 
 
-RetopoFlow
-====================
+##重新拓扑流
+一套有趣的、基于草图的重新拓扑工具，用于 Orange Turbine 的 Blender。
 
-A suite of fun, sketch-based retopology tools for Blender from [Orange Turbine](https://orangeturbine.com).
+##用法
+RetopoFlow的代码在GPL 3.0许可证下是开源的。 此存储库中的非代码资产不是。请注意，从上面的绿色“代码”按钮而不是发布页面安装源代码将不起作用，因为它需要适当打包。（下载我改动的，别直接下源码）
 
-You can read about the features and purchase a copy on [our website](https://orangeturbine.com/downloads/retopoflow) or the [Blender Market](https://blendermarket.com/products/retopoflow/).
+##获得支持
+要开始安装和使用该附加组件，请找他们不是我！
 
-## Usage
-
-The code for RetopoFlow is open source under the [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-The non-code assets in this repository are not.
-Students, teachers, and those using RetopoFlow for educational purposes are welcome to download it for free from our [release](https://github.com/CGCookie/retopoflow/releases) page.
-Please note that installing the source code from the green 'Code' button above rather than the release page will not work since it needs to be packaged appropriately.
-
-## Getting Support
-
-To get started with installing and using the add-on, please [read our documentation](http://docs.retopoflow.com/).
-You can get support for RetopoFlow by sending a message to Orange Turbine from your [Blender Market inbox](https://blendermarket.com/inbox) once you've purchased a copy.
-
-## Contributing
-
-Pull requests are welcome!
-If you'd like to contribute to the project then simply fork the repo, work on your changes, and then submit a pull request.
-We are quite strict on what we allow in, but all suggestions are welcome.
-If you're unsure what to contribute, then look at the [open issues](https://github.com/CGCookie/retopoflow/issues) for the current to-dos.
+##贡献
+欢迎帮助！ 如果您想为汉化做出贡献，则直接说。 
